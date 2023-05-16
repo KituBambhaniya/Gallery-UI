@@ -1,5 +1,5 @@
 # Gallery-UI
-<img src="https://github.com/KituBambhaniya/Gallery-UI/assets/121953760/35bf0729-9069-4677-ac0d-3e1c81ffb296" width="300" height="600" />
+<img src="https://github.com/KituBambhaniya/Gallery-UI/assets/121953760/35bf0729-9069-4677-ac0d-3e1c81ffb296" width="300" height="500" />
 <img src="https://github.com/KituBambhaniya/Gallery-UI/assets/121953760/9d305176-111b-475f-9575-56a726e97c5b" width="200" height="300" />
 <img src="https://github.com/KituBambhaniya/Gallery-UI/assets/121953760/f1753221-2490-4399-a6a3-c828ecda2aef" width="200" height="300" />
 <img src="https://github.com/KituBambhaniya/Gallery-UI/assets/121953760/2c093fc3-587b-4326-b817-7c98961d18f8" width="200" height="300" />
